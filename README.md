@@ -6,7 +6,7 @@ To run the crawler, you need to install [networkx](https://github.com/networkx/n
 ```
 pip install networkx
 ```
-#Usage
+# Usage
 To run it, type this in the terminal:
 ```
 python main.py <the_targeted_url>
