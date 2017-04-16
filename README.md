@@ -4,9 +4,9 @@ A simple webcrawler written in python
 # Requirements
 To run the crawler, you need to install [networkx](https://github.com/networkx/networkx) library for graph data structrure support. Do that by opening up the terminal and typing:
 ```
-$ pip install networkx
+pip install networkx
 ```
-
+#Usage
 To run it, type this in the terminal:
 ```
 python main.py <the_targeted_url>
